@@ -3,9 +3,9 @@
         "kernelSource": {
             "name": "Mi 9 Pro",
             "repo": "https://github.com/TheVoyager0777/Kernel_Xiaomi_SM8150_R.git",
-            "branch": "laurus-q-oss",
-            "device": "laurus-q-oss",
-            "defconfig": "vendor/wayne_defconfig"
+            "branch": "VK-VI",
+            "device": "Crux",
+            "defconfig": "crux_defconfig"
         },
         "toolchains": [
             {
